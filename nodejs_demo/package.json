@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vasantharajan",
+  "license": "ISC",
+  "devDependencies": {
+    "formidable": "^1.2.2",
+    "nodemailer": "^6.6.3"
+  }
+}
