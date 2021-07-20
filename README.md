@@ -2,4 +2,4 @@
 
 IDE: webstorm 
 
-Modules covered: http, fs, formidable, nodemailer
+Modules covered: http, url, fs, formidable, nodemailer
